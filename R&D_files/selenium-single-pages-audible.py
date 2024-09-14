@@ -6,8 +6,7 @@ import pandas as pd
 
 website = 'https://www.audible.co.uk/search'
 
-chrome_driver_path = 'C:\\Users\\sohan\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe'
-# chrome_driver_path = 'E:\\DataAnalytics\\WebScrap\\seleniumMultipage-Audible\\chromedriver.exe'''
+chrome_driver_path = 'C:\\Users\\'USER'\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe'
 
 options = webdriver.ChromeOptions()
 # options.add_argument("--headless")  # browser is gone
