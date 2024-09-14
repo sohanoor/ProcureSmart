@@ -30,14 +30,14 @@ sign_in_btn.click()
 time.sleep(2)
 
 username = driver.find_element(By.XPATH, '//input[@name="text"]')
-username.send_keys('sohanoorrahman@gmail.com')
+username.send_keys('EMAIL')
 time.sleep(2)
 next_btn = driver.find_element(By.XPATH, '//div[@role="button"]//span[text()="Next"]')
 next_btn.click()
 time.sleep(2)
 
 password = driver.find_element(By.XPATH, '//input[@autocomplete ="current-password"]')
-password.send_keys('P@ssW0rdtwit')
+password.send_keys('PASSWORD')
 time.sleep(2)
 
 login_button = driver.find_element(By.XPATH, '//div[@role="button"]//span[text()="Log in"]')
