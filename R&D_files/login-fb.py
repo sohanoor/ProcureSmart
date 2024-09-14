@@ -27,7 +27,7 @@ username.send_keys('EMAIL')
 time.sleep(2)
 
 password = driver.find_element(By.XPATH, '//input[@name="pass"]')
-password.send_keys('PASS')
+password.send_keys('PASSWORD')
 time.sleep(2)
 
 login_button = driver.find_element(By.XPATH, '//button[@name="login"]')
