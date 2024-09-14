@@ -12,7 +12,7 @@ The aim of this project is to automate the process of collecting sales data, log
 
 The primary motivation for this project is to enhance efficiency and accuracy in the procurement process. By automating data collection and analysis, the project aims to reduce manual effort, minimize errors, and optimize purchasing decisions. This will lead to cost savings and better inventory management.
 
-## Steps
+## Process Followed
 
 1. **Data Collection:**
    - **Sales Data:** Collect sales data and store it in Microsoft Excel.
